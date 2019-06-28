@@ -1,5 +1,5 @@
 # Tensorflow Object Detector with ROS
-
+[this repo cannot train own dataset QQ]
 ## Requirements:
 
 Tensorflow and ROS
